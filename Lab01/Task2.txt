@@ -1,0 +1,38 @@
+using System;
+
+namespace ASD1Lab
+{
+    class Program
+    {
+        static protected bool nvar1 = true;
+        static void isPal(int n) {
+            char[] c = n.ToString().ToCharArray();
+            int i = 0;
+            while ( i < c.Length )
+            {
+                if (c[i]!=c[c.Length-i-1])
+                {
+                    nvar1 = false;
+                }
+                i++;
+            }
+        }
+        static protected void Main(string[] args)
+        {
+            int n1 =(int) double.Parse(Console.ReadLine());
+            while (n1 > 0)
+            {
+                nvar1 = true;
+                isPal(n1);
+                n1 = n1 * n1;
+                isPal(n1);
+                n1 = (int)Math.Sqrt(n1);
+                if (nvar1)
+                {
+                    Console.WriteLine(n1);
+                }
+                n1 -= 1;
+            }
+        }
+    }
+}

@@ -1,0 +1,18 @@
+using System;
+
+namespace ASD1Lab2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double x = double.Parse(Console.ReadLine()), y = double.Parse(Console.ReadLine());
+            double a = Math.Sin(x) + Math.Cos(y);
+            a = Math.Abs(a);
+            a = Math.Pow(a,1/3.0);
+            double b = Math.Sin(a * a);
+            b = Math.Cos(b);
+            Console.WriteLine("Out a= "+a+" b= "+b);
+        }
+    }
+}

@@ -1,0 +1,14 @@
+C:\Users\MNKNTA\source\repos\3ASD\3ASD\bin\Debug\netcoreapp3.1\3ASD.exe
+C:\Users\MNKNTA\source\repos\3ASD\3ASD\bin\Debug\netcoreapp3.1\3ASD.deps.json
+C:\Users\MNKNTA\source\repos\3ASD\3ASD\bin\Debug\netcoreapp3.1\3ASD.runtimeconfig.json
+C:\Users\MNKNTA\source\repos\3ASD\3ASD\bin\Debug\netcoreapp3.1\3ASD.runtimeconfig.dev.json
+C:\Users\MNKNTA\source\repos\3ASD\3ASD\bin\Debug\netcoreapp3.1\3ASD.dll
+C:\Users\MNKNTA\source\repos\3ASD\3ASD\bin\Debug\netcoreapp3.1\3ASD.pdb
+C:\Users\MNKNTA\source\repos\3ASD\3ASD\obj\Debug\netcoreapp3.1\3ASD.csproj.AssemblyReference.cache
+C:\Users\MNKNTA\source\repos\3ASD\3ASD\obj\Debug\netcoreapp3.1\3ASD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MNKNTA\source\repos\3ASD\3ASD\obj\Debug\netcoreapp3.1\3ASD.AssemblyInfoInputs.cache
+C:\Users\MNKNTA\source\repos\3ASD\3ASD\obj\Debug\netcoreapp3.1\3ASD.AssemblyInfo.cs
+C:\Users\MNKNTA\source\repos\3ASD\3ASD\obj\Debug\netcoreapp3.1\3ASD.csproj.CoreCompileInputs.cache
+C:\Users\MNKNTA\source\repos\3ASD\3ASD\obj\Debug\netcoreapp3.1\3ASD.dll
+C:\Users\MNKNTA\source\repos\3ASD\3ASD\obj\Debug\netcoreapp3.1\3ASD.pdb
+C:\Users\MNKNTA\source\repos\3ASD\3ASD\obj\Debug\netcoreapp3.1\3ASD.genruntimeconfig.cache

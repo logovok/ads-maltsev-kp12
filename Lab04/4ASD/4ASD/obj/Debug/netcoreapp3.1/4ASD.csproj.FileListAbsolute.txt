@@ -1,0 +1,14 @@
+C:\Users\MNKNTA\source\repos\4ASD\4ASD\bin\Debug\netcoreapp3.1\4ASD.exe
+C:\Users\MNKNTA\source\repos\4ASD\4ASD\bin\Debug\netcoreapp3.1\4ASD.deps.json
+C:\Users\MNKNTA\source\repos\4ASD\4ASD\bin\Debug\netcoreapp3.1\4ASD.runtimeconfig.json
+C:\Users\MNKNTA\source\repos\4ASD\4ASD\bin\Debug\netcoreapp3.1\4ASD.runtimeconfig.dev.json
+C:\Users\MNKNTA\source\repos\4ASD\4ASD\bin\Debug\netcoreapp3.1\4ASD.dll
+C:\Users\MNKNTA\source\repos\4ASD\4ASD\bin\Debug\netcoreapp3.1\4ASD.pdb
+C:\Users\MNKNTA\source\repos\4ASD\4ASD\obj\Debug\netcoreapp3.1\4ASD.csproj.AssemblyReference.cache
+C:\Users\MNKNTA\source\repos\4ASD\4ASD\obj\Debug\netcoreapp3.1\4ASD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MNKNTA\source\repos\4ASD\4ASD\obj\Debug\netcoreapp3.1\4ASD.AssemblyInfoInputs.cache
+C:\Users\MNKNTA\source\repos\4ASD\4ASD\obj\Debug\netcoreapp3.1\4ASD.AssemblyInfo.cs
+C:\Users\MNKNTA\source\repos\4ASD\4ASD\obj\Debug\netcoreapp3.1\4ASD.csproj.CoreCompileInputs.cache
+C:\Users\MNKNTA\source\repos\4ASD\4ASD\obj\Debug\netcoreapp3.1\4ASD.dll
+C:\Users\MNKNTA\source\repos\4ASD\4ASD\obj\Debug\netcoreapp3.1\4ASD.pdb
+C:\Users\MNKNTA\source\repos\4ASD\4ASD\obj\Debug\netcoreapp3.1\4ASD.genruntimeconfig.cache

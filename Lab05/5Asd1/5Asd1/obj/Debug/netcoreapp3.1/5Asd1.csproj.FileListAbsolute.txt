@@ -1,0 +1,14 @@
+C:\Users\MNKNTA\source\repos\5Asd1\5Asd1\bin\Debug\netcoreapp3.1\5Asd1.exe
+C:\Users\MNKNTA\source\repos\5Asd1\5Asd1\bin\Debug\netcoreapp3.1\5Asd1.deps.json
+C:\Users\MNKNTA\source\repos\5Asd1\5Asd1\bin\Debug\netcoreapp3.1\5Asd1.runtimeconfig.json
+C:\Users\MNKNTA\source\repos\5Asd1\5Asd1\bin\Debug\netcoreapp3.1\5Asd1.runtimeconfig.dev.json
+C:\Users\MNKNTA\source\repos\5Asd1\5Asd1\bin\Debug\netcoreapp3.1\5Asd1.dll
+C:\Users\MNKNTA\source\repos\5Asd1\5Asd1\bin\Debug\netcoreapp3.1\5Asd1.pdb
+C:\Users\MNKNTA\source\repos\5Asd1\5Asd1\obj\Debug\netcoreapp3.1\5Asd1.csproj.AssemblyReference.cache
+C:\Users\MNKNTA\source\repos\5Asd1\5Asd1\obj\Debug\netcoreapp3.1\5Asd1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MNKNTA\source\repos\5Asd1\5Asd1\obj\Debug\netcoreapp3.1\5Asd1.AssemblyInfoInputs.cache
+C:\Users\MNKNTA\source\repos\5Asd1\5Asd1\obj\Debug\netcoreapp3.1\5Asd1.AssemblyInfo.cs
+C:\Users\MNKNTA\source\repos\5Asd1\5Asd1\obj\Debug\netcoreapp3.1\5Asd1.csproj.CoreCompileInputs.cache
+C:\Users\MNKNTA\source\repos\5Asd1\5Asd1\obj\Debug\netcoreapp3.1\5Asd1.dll
+C:\Users\MNKNTA\source\repos\5Asd1\5Asd1\obj\Debug\netcoreapp3.1\5Asd1.pdb
+C:\Users\MNKNTA\source\repos\5Asd1\5Asd1\obj\Debug\netcoreapp3.1\5Asd1.genruntimeconfig.cache

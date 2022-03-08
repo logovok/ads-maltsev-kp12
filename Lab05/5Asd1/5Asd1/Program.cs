@@ -90,6 +90,10 @@ namespace _5Asd1
                 for (int j = 0; j < M; j++)
                 {
                     nArr[i, j] = rnd.Next(10, 99);
+                    if (true)
+                    {
+
+                    }
                     Console.Write(nArr[i, j] + " ");
                 }
                 Console.WriteLine();
@@ -165,7 +169,15 @@ namespace _5Asd1
             {
                 for (int j = 0; j < mtr.Length / N; j++)
                 {
+                    if (i + (M - N < 0 ? (M - N) : 0) == Math.Min(mtr.Length / N, N)-j-1+ (M - N > 0 ? (M - N)  : 0) || ((i + (M - N < 0 ? (M - N) : 0) > Math.Min(mtr.Length / N, N) - j - 1) && (N - i == M - j)))
+                    {
+                        Console.BackgroundColor = ConsoleColor.DarkRed;
+                    }
                     Console.Write(mtr[i,j]+" ");
+                    if (i + (M - N < 0 ? (M - N) : 0) == Math.Min(mtr.Length / N, N) - j - 1 + (M - N > 0 ? (M - N) : 0) || ((i + (M - N < 0 ? (M - N) : 0) > Math.Min(mtr.Length / N, N) - j - 1) && (N - i == M - j)))
+                    {
+                        Console.BackgroundColor = ConsoleColor.Black;
+                    }
                 }
                 Console.WriteLine();
             }

@@ -1,0 +1,14 @@
+C:\Users\MNKNTA\source\repos\ASD6\ASD6\bin\Debug\netcoreapp3.1\ASD6.exe
+C:\Users\MNKNTA\source\repos\ASD6\ASD6\bin\Debug\netcoreapp3.1\ASD6.deps.json
+C:\Users\MNKNTA\source\repos\ASD6\ASD6\bin\Debug\netcoreapp3.1\ASD6.runtimeconfig.json
+C:\Users\MNKNTA\source\repos\ASD6\ASD6\bin\Debug\netcoreapp3.1\ASD6.runtimeconfig.dev.json
+C:\Users\MNKNTA\source\repos\ASD6\ASD6\bin\Debug\netcoreapp3.1\ASD6.dll
+C:\Users\MNKNTA\source\repos\ASD6\ASD6\bin\Debug\netcoreapp3.1\ASD6.pdb
+C:\Users\MNKNTA\source\repos\ASD6\ASD6\obj\Debug\netcoreapp3.1\ASD6.csproj.AssemblyReference.cache
+C:\Users\MNKNTA\source\repos\ASD6\ASD6\obj\Debug\netcoreapp3.1\ASD6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MNKNTA\source\repos\ASD6\ASD6\obj\Debug\netcoreapp3.1\ASD6.AssemblyInfoInputs.cache
+C:\Users\MNKNTA\source\repos\ASD6\ASD6\obj\Debug\netcoreapp3.1\ASD6.AssemblyInfo.cs
+C:\Users\MNKNTA\source\repos\ASD6\ASD6\obj\Debug\netcoreapp3.1\ASD6.csproj.CoreCompileInputs.cache
+C:\Users\MNKNTA\source\repos\ASD6\ASD6\obj\Debug\netcoreapp3.1\ASD6.dll
+C:\Users\MNKNTA\source\repos\ASD6\ASD6\obj\Debug\netcoreapp3.1\ASD6.pdb
+C:\Users\MNKNTA\source\repos\ASD6\ASD6\obj\Debug\netcoreapp3.1\ASD6.genruntimeconfig.cache
